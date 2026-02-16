@@ -1,26 +1,26 @@
 {
-	"info": {
-		"_postman_id": "6210d3bf-9726-441e-93ee-b0a54c0b92c0",
-		"name": "FirstGo",
-		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_exporter_id": "22838281"
-	},
-	"item": [
-		{
-			"name": "health",
-			"request": {
-				"method": "GET",
-				"header": []
-			},
-			"response": []
-		},
-		{
-			"name": "widgets",
-			"request": {
-				"method": "GET",
-				"header": []
-			},
-			"response": []
-		}
-	]
+  "info": {
+    "_postman_id": "6210d3bf-9726-441e-93ee-b0a54c0b92c0",
+    "name": "FirstGo",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "22838281"
+  },
+  "item": [
+    {
+      "name": "health",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "widgets",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
 }
